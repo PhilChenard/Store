@@ -1,0 +1,5 @@
+Laptop
+Electronic
+2000.0
+25
+Laptop_Asus_i-3_2.0GHz_4Gb_RAM

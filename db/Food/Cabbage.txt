@@ -1,0 +1,5 @@
+Cabbage
+Food
+0.8
+19
+Charged_per_lb

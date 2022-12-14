@@ -1,0 +1,5 @@
+Processor
+Electronic
+1599.0
+0
+Intel_i7_6700k

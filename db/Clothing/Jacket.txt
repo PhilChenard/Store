@@ -1,0 +1,5 @@
+Jacket
+Clothing
+79.0
+14
+Sizes_XS-M-L-XL-XXL

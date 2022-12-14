@@ -1,0 +1,5 @@
+Blanket
+Clothing
+40.0
+14
+Comforter

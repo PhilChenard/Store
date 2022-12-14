@@ -1,0 +1,5 @@
+Milk
+Food
+5.0
+184
+Milk_cu_1,5%_fat
