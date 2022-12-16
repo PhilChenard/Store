@@ -1,4 +1,2 @@
 admin admin admin
 user user user
-operator operator operator
-curier curier curier
